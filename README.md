@@ -4,6 +4,8 @@ Teaching myself to understand how LLMs work and how to build them from scratch t
 
 ## RESOURCES
 
-* [`Hugging Face LLM Course`](https://huggingface.co/learn/llm-course)
+* Course: [`Hugging Face LLM Course`](https://huggingface.co/learn/llm-course)
 
-* [`Practical Deep Learning for Coders`](https://course.fast.ai/)
+* Course: [`Practical Deep Learning for Coders`](https://course.fast.ai/)
+
+* Book: [`Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD`](https://course.fast.ai/Resources/book.html)
